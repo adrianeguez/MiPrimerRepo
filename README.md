@@ -8,8 +8,4 @@
 
 ### Amigos
 
-no se sabe que hacer
-
-otra linea
-otar linea mas
-Autor Adrian Eguez
+Author Adrian Eguez
