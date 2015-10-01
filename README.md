@@ -8,4 +8,6 @@
 
 ### Amigos
 
-Author Adrian Eguez
+no se sabe que hacer
+
+Autor Adrian Eguez
