@@ -7,3 +7,5 @@
 - Lista 3
 
 ### Amigos
+
+Author Adrian Eguez
